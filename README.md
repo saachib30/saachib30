@@ -1,4 +1,4 @@
-## # Hi, I'm Saachi.
+Hi, I'm Saachi.
 
 I am a Data Analyst pursuing my MS in Information Technology at Arizona State University (May 2026).  
 I specialize in building data pipelines, analyzing large datasets, and creating impactful dashboards to drive business insights.
